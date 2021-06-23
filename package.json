@@ -1,0 +1,15 @@
+{
+  "name": "autotest_cypress_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "Samuel Lourenço",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.4.0"
+  }
+}
